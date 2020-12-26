@@ -1,4 +1,3 @@
-# this is a try for learing git in 24/12/2020
 # the program creates a single pdf file from the .dft files
 # avalaible in a directory filtering according to a list 
 
